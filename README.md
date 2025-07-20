@@ -18,7 +18,7 @@
 ## 🌐 웹사이트
 
 이 프로젝트는 GitHub Pages를 통해 배포되었습니다.
-- [로또 번호 생성기 바로가기](https://koooo1017].github.io/loto-gen)
+- [로또 번호 생성기 바로가기](https://Koooo1017.github.io/loto-gen)
 
 ## 🛠️ 기술 스택
 
